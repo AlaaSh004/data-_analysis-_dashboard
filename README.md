@@ -1,7 +1,7 @@
 #  Bank Marketing Campaign Analysis
 
 ##  Project Overview
-This project focuses on analyzing a bank's marketing campaign data to understand customer behavior and identify the key factors that lead to successful term deposit subscriptions.
+This project presents a complete data analysis workflow on a bank marketing dataset. It includes data cleaning, preprocessing, exploratory data analysis (EDA), and interactive dashboard development to uncover key factors influencing term deposit subscription. The goal is to extract actionable business insights and support data-driven marketing strategies.
 
 ---
 
